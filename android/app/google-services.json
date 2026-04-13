@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "507318103646",
+    "project_id": "proyecto-d-valens-grupo-ptsiun",
+    "storage_bucket": "proyecto-d-valens-grupo-ptsiun.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507318103646:android:ca40d522f5de9bcf54cecf",
+        "android_client_info": {
+          "package_name": "com.mycompany.proyectodvalensgrupocuatro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507318103646-o1ui6j7rd7lt4n2qqkn8qca4bs70nlv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.proyectodvalensgrupocuatro",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "507318103646-2bqoglsie49nllkm8esu3bjdpd6c8l0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjr9d3NLNQuJIjFeZfeLSh6TN_1F0P9hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507318103646-2bqoglsie49nllkm8esu3bjdpd6c8l0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507318103646-4jhdb4aavl2u1jr7kaktif17m7f2vvdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proyectodvalensgrupocuatro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507318103646:android:b0028ccf05f76b4b54cecf",
+        "android_client_info": {
+          "package_name": "com.proyectodvalensgrupocuatro.proyectodvalensgrupocuatro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507318103646-sovr2lh1e407vjj2hruqts8lo3r2s3er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectodvalensgrupocuatro.proyectodvalensgrupocuatro",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "507318103646-2bqoglsie49nllkm8esu3bjdpd6c8l0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjr9d3NLNQuJIjFeZfeLSh6TN_1F0P9hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507318103646-2bqoglsie49nllkm8esu3bjdpd6c8l0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507318103646-4jhdb4aavl2u1jr7kaktif17m7f2vvdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proyectodvalensgrupocuatro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
