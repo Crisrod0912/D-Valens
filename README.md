@@ -48,7 +48,7 @@ A mobile application developed for a family-owned business dedicated to food and
 
 ### 📋 Prerequisites
 
-- 🌐 [FlutterFlow](https://www.flutterflow.io/)  
+- 🌐 [FlutterFlow](https://www.flutterflow.io/) (low-code platform)
 - 🔥 [Firebase](https://firebase.google.com/)  
 
 ### 🔧 Firebase Configuration
@@ -68,17 +68,17 @@ A mobile application developed for a family-owned business dedicated to food and
 
 4. 🔐 Configure Firebase security rules as needed.
 
-## ▶️ Running the Project
+### ▶️ Running the Project
 
 There are two ways to run this project:
 
-### 1️⃣ Run via FlutterFlow (Recommended)
+#### 1️⃣ Run via FlutterFlow (Recommended)
 
 - Open the project in FlutterFlow.
 - Connect it to your Firebase project.
 - Click Run or Preview.
 
-### 2️⃣ Export and Run in Flutter (Optional)
+#### 2️⃣ Export and Run in Flutter (Optional)
 
 If you exported the code:
 
