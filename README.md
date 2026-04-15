@@ -1,6 +1,6 @@
 # 🍰 D'Valens
 
-A mobile application developed for a family-owned business dedicated to food and pastry production. This project aims to modernize business operations by replacing traditional methods such as social media communication with a centralized digital solution. The application enables efficient product management, customer interaction, order handling, and service reservations, providing a scalable and user-friendly platform built with modern low-code tools.
+A mobile application developed for a family-owned business dedicated to food and pastry production. This application aims to modernize business operations by replacing traditional methods such as social media communication with a centralized digital solution. The application enables efficient product management, customer interaction, order handling, and service reservations, providing a scalable and user-friendly platform built with modern low-code tools.
 
 ## 🚀 Features
 
