@@ -107,6 +107,6 @@ The application uses Firestore with the following collections:
 - 🍽️ Catering → Catering service reservations
 
 > [!NOTE]
-> **Project Owner / Developer** 🧑🏻‍💻  
+> **Project Owner / Developer** 👨🏻‍💻  
 >- Cristopher Rodríguez Fernández 
 ***
